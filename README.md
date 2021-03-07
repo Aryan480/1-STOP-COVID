@@ -26,5 +26,5 @@ Solution | App will provide Travel advisories and current situations around the 
 
 # Links: 
 
-* GitHub Repository: 
-* Figma Link:
+* GitHub Repository: https://github.com/Aryan480/1-STOP-COVID
+* Figma Link: https://www.figma.com/file/RvF9O3m25QHd5yALAkiger/1-STOP-COVID-Copy?node-id=0%3A1
