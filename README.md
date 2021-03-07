@@ -19,6 +19,10 @@ This application have a live chat features that connects with representatives, t
 
 ![alt text](https://github.com/Aryan480/1-STOP-COVID/blob/main/prototype.png)
 
+# Demo
+
+Link: https://youtu.be/XsIZqjum5w8
+
 # Future Functionalities
 Problem | Doesn't provide any information about globalwide COVID and travel advisory |Network connectivity issues for Live Chats when medical help |Grocery support |Live updates and news alerts|Vaccination appointments |
 --- | --- | --- | --- |--- |--- 
@@ -28,3 +32,4 @@ Solution | App will provide Travel advisories and current situations around the 
 
 * GitHub Repository: https://github.com/Aryan480/1-STOP-COVID
 * Figma Link: https://www.figma.com/file/RvF9O3m25QHd5yALAkiger/1-STOP-COVID-Copy?node-id=0%3A1
+* Demo Video: https://youtu.be/XsIZqjum5w8
